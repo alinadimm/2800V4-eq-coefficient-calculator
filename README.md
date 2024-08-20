@@ -18,7 +18,11 @@ The program provides a user-friendly GUI that allows you to input parameters lik
 
 Click the button below to download the executable file for Windows.
 
-[![Download EXE](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge&logo=windows)]([https://your-link-to-exe-file.com](https://github.com/alinadimm/2800V4-eq-coefficient-calculator/blob/master/2800V4_EQ-Coeff.exe))
+# Download the Application
+
+
+[![Download EXE](https://img.shields.io/badge/Download-EXE-blue)](https://github.com/alinadimm/2800V4-eq-coefficient-calculator/raw/master/2800V4_EQ-Coeff.exe)
+
 
 ## Input Parameters
 
