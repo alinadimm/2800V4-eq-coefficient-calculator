@@ -10,9 +10,12 @@ The program provides a user-friendly GUI that allows you to input parameters lik
 - **Calculations:** Provides the earthquake coefficient `C` and `K` coefficient.
 - **ETABS Integration:** The output can be used as input for defining earthquake load patterns in ETABS.
 
+
+# Earthquake Coefficient Calculator GUI
+
 ## Screenshot
 
-![Earthquake Coefficient Calculator GUI](https://github.com/alinadimm/2800V4-eq-coefficient-calculator/blob/main/2800v4_EQ_coeff_screenshot.jpg)
+<img src="https://github.com/alinadimm/2800V4-eq-coefficient-calculator/blob/main/2800v4_EQ_coeff_screenshot.jpg" alt="Earthquake Coefficient Calculator GUI" width="400"/>
 
 ## Download
 
@@ -53,6 +56,6 @@ Click the button below to download the executable file for Windows.
 
 If you have any questions or need further assistance, feel free to reach out:
 
-- Email: [your.email@example.com](alinadim7697@gmail.com.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ali-nadim)
+- Email: [alinadim7697@gmail.com](alinadim7697@gmail.com.com)
+- LinkedIn: [ali-nadim](https://www.linkedin.com/in/ali-nadim)
 
